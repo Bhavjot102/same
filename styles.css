@@ -1,0 +1,64 @@
+body{
+  font-family:"Ubuntu";
+}
+  #title{
+  background-color: #1d1919;
+  padding-bottom:3rem;
+
+}
+h1{
+  font-family:"libre baskerville";
+  font-size: 2.50rem;
+  line-height: 1.2;
+  padding-top: 20%;
+  color: #fff;
+
+}
+.skills-img{
+  width: 12%;
+}
+.suk1{
+  width:60%;
+  border-radius:50%;
+  margin-left: 30%;
+
+}
+.navbar-brand{
+  font-family: "Trispace";
+  font-size:1.5rem;
+}
+.navbar{
+  padding-bottom: 2rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family:"Ubuntu";
+}
+.signin-button{
+  margin-top: 10%;
+}
+.aboutme{
+  padding: 7% 3%;
+}
+h2{
+  font-family:"libre baskerville";
+}
+p{
+  color: #8f8f8f;
+}
+.myskills{
+  text-align: center;
+  font-size: 3rem;
+  padding:1% 15%;
+}
+.volley{
+  text-align: center;
+  padding:10% auto;
+
+}
+h3{
+  color: #ffd5cd;
+}
